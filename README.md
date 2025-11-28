@@ -1,6 +1,5 @@
 # 💫 About Me:
-🎓 Undergraduate Final Year Student @ TCET<br>💻 Full Stack Dev Intern @ Elitech<br>💻 Loves coding, logic & caffeine <br>🚁 Part-time Aeromodelling Engineer <br>📝 📝 [Here's my LinkedIn](https://www.linkedin.com/in/aayushyadav7777/) <br>
-🐙 [Here's my GitHub](https://github.com/Aayushy7777) <br>📫 Feel free to reach me out: aayush09204@gmail.com<br>🔔 Let's connect!<br>
+🎓 Undergraduate Final Year Student @ TCET<br>💻 Full Stack Dev Intern @ Elitech<br>💻 Loves coding, logic & caffeine <br>🚁 Part-time Aeromodelling Engineer <br>📝 📝 Here's my [LinkedIn](https://www.linkedin.com/in/aayushyadav7777/) <br>🐙 Here's my [GitHub](https://github.com/Aayushy7777) <br>📫 Feel free to reach me out: aayush09204@gmail.com<br>🔔 Let's connect!<br>
 
 
 ## 🌐 Socials:
